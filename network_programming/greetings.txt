@@ -1,0 +1,2 @@
+Hello user!
+If you see this message, the server is running fine.
